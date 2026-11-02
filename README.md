@@ -1,4 +1,5 @@
-## Hi there 👋
+## akashpatra-hub👋
+This is my first Git Repository.
 
 <!--
 **akashpatra88888-hub/akashpatra88888-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
